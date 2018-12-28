@@ -1,0 +1,532 @@
+body {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+.row {
+  margin-bottom: 1rem;
+}
+.row .row {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.bgimg {
+  background-image: url("../img/password.png");
+  width:700px;
+  height:500px;
+  position: relative;
+}
+
+.bgimgstep1 {
+  background-image: url("../img/download.png");
+  width:700px;
+  height:500px;
+  position: relative;
+}
+
+.imgstep1 {
+  position: absolute;
+  left: 160px;
+  top: 69px;
+  width: 379px;
+  height: 82px;
+}
+
+.bgimgstep2 {
+  background-image: url("../img/password.png");
+  width:700px;
+  height:500px;
+  position: relative;
+}
+
+.imgstep2 {
+  position: absolute;
+  left: 645px;
+  top: 300px;
+  width: 50px;
+  height: 37px;
+}
+
+.bgimgstep3 {
+  background-image: url("../img/passwordgen.png");
+  width:1200px;
+  height:500px;
+  position: relative;
+}
+
+.imgstep3 {
+  position: absolute;
+  left: 650px;
+  top: 341px;
+  width: 507px;
+  height: 34px;
+}
+
+.bgimgstep4 {
+  background-image: url("../img/genpassword.png");
+  width:729px;
+  height:880px;
+  position: relative;
+}
+
+.imgstep4 {
+  position: absolute;
+  left: 367px;
+  top: 280px;
+  width: 109px;
+  height: 30px;
+}
+
+.imgstep5 {
+  position: absolute;
+  left: 367px;
+  top: 319px;
+  width: 211px;
+  height: 131px;
+}
+
+.imgstep6 {
+  position: absolute;
+  left: 171px;
+  top: 139px;
+  width: 72px;
+  height: 26px;
+}
+
+.imgstep7 {
+  position: absolute;
+  left: 482px;
+  top: 829px;
+  width: 100px;
+  height: 26px;
+}
+
+.bgimgstep8 {
+  background-image: url("../img/newpassword.png");
+  width:1446px;
+  height:400px;
+  position: relative;
+}
+
+.imgstep8 {
+  position: absolute;
+  left: 103px;
+  top: 68px;
+  width: 42px;
+  height: 30px;
+}
+
+.imgstep9 {
+  position: absolute;
+  left: 15px;
+  top: 75px;
+  width: 17px;
+  height: 19px;
+}
+
+.bgimgstep10 {
+  background-image: url("../img/openkeepass.png");
+  width:760px;
+  height:548px;
+  position: relative;
+}
+
+.imgstep10 {
+  position: absolute;
+  left: 579px;
+  top: 450px;
+  width: 107px;
+  height: 31px;
+}
+
+.imgstep11 {
+  position: absolute;
+  left: 13px;
+  top: 73px;
+  width: 22px;
+  height: 28px;
+}
+
+.bgimgstep12 {
+  background-image: url("../img/keepasswarn.png");
+  width:736px;
+  height:592px;
+  position: relative;
+}
+
+.imgstep12 {
+  position: absolute;
+  left: 399px;
+  top: 529px;
+  width: 100px;
+  height: 34px;
+}
+
+.bgimgstep13 {
+  background-image: url("../img/savedatabase.png");
+  width:1001px;
+  height:600px;
+  position: relative;
+}
+
+.imgstep13 {
+  position: absolute;
+  left: 665px;
+  top: 525px;
+  width: 120px;
+  height: 34px;
+}
+
+.bgimgstep14 {
+  background-image: url("../img/masterpass.png");
+  width:785px;
+  height:929px;
+  position: relative;
+}
+
+.imgstep14 {
+  position: absolute;
+  left: 227px;
+  top: 263px;
+  width: 475px;
+  height: 25px;
+}
+
+.imgstep15 {
+  position: absolute;
+  left: 227px;
+  top: 343px;
+  width: 475px;
+  height: 25px;
+}
+
+.imgstep16 {
+  position: absolute;
+  left: 714px;
+  top: 261px;
+  width: 46px;
+  height: 31px;
+}
+
+.imgstep17 {
+  position: absolute;
+  left: 528px;
+  top: 873px;
+  width: 110px;
+  height: 33px;
+}
+
+.bgimgstep18 {
+  background-image: url("../img/dbsetting.png");
+  width:733px;
+  height:750px;
+  position: relative;
+}
+
+.imgstep18 {
+  position: absolute;
+  left: 167px;
+  top: 187px;
+  width: 522px;
+  height: 22px;
+}
+
+.imgstep19 {
+  position: absolute;
+  left: 481px;
+  top: 694px;
+  width: 110px;
+  height: 30px;
+}
+
+.bgimgstep20 {
+  background-image: url("../img/summary.png");
+  width:797px;
+  height:646px;
+  position: relative;
+}
+
+.imgstep20 {
+  position: absolute;
+  left: 241px;
+  top: 461px;
+  width: 525px;
+  height: 100px;
+}
+
+.bgimgstep21 {
+  background-image: url("../img/password1.png");
+  width:724px;
+  height:781px;
+  position: relative;
+}
+
+.imgstep21 {
+  position: absolute;
+  left: 135px;
+  top: 181px;
+  width: 437px;
+  height: 26px;
+}
+
+.imgstep22 {
+  position: absolute;
+  left: 135px;
+  top: 224px;
+  width: 556px;
+  height: 26px;
+}
+
+.imgstep23 {
+  position: absolute;
+  left: 135px;
+  top: 265px;
+  width: 501px;
+  height: 26px;
+}
+
+.imgstep23_1 {
+  position: absolute;
+  left: 649px;
+  top: 305px;
+  width: 44px;
+  height: 32px;
+}
+
+.imgstep24 {
+  position: absolute;
+  left: 135px;
+  top: 348px;
+  width: 437px;
+  height: 26px;
+}
+
+.imgstep24 {
+  position: absolute;
+  left: 135px;
+  top: 348px;
+  width: 557px;
+  height: 26px;
+}
+
+.imgstep25 {
+  position: absolute;
+  left: 135px;
+  top: 383px;
+  width: 557px;
+  height: 30px;
+}
+
+.imgstep26 {
+  position: absolute;
+  left: 467px;
+  top: 735px;
+  width: 116px;
+  height: 30px;
+}
+
+.bgimgstep27 {
+  background-image: url("../img/applypassword.png");
+  width:959px;
+  height:605px;
+  position: relative;
+}
+
+.imgstep27 {
+  position: absolute;
+  left: 194px;
+  top: 191px;
+  width: 281px;
+  height: 30px;
+}
+
+.imgstep28 {
+  position: absolute;
+  left: 479px;
+  top: 246px;
+  width: 304px;
+  height: 30px;
+}
+
+.bgimgstep29 {
+  background-image: url("../img/gmail.png");
+  width:630px;
+  height:755px;
+  position: relative;
+}
+
+.imgstep29 {
+  position: absolute;
+  left: 23px;
+  top: 468px;
+  width: 500px;
+  height: 118px;
+}
+
+.imgstep30 {
+  position: absolute;
+  left: 452px;
+  top: 676px;
+  width: 128px;
+  height: 49px;
+}
+
+.bgimgstep31 {
+  background-image: url("../img/applypassword.png");
+  width:959px;
+  height:605px;
+  position: relative;
+}
+
+.imgstep31 {
+  position: absolute;
+  left: 479px;
+  top: 218px;
+  width: 305px;
+  height: 27px;
+}
+
+.imgstep32 {
+  position: absolute;
+  left: 479px;
+  top: 246px;
+  width: 304px;
+  height: 30px;
+}
+
+.bgimgstep33 {
+  background-image: url("../img/gmailsignin.png");
+  width:630px;
+  height:755px;
+  position: relative;
+ }
+
+.imgstep33 {
+  position: absolute;
+  left: 22px;
+  top: 225px;
+  width: 554px;
+  height: 90px;
+}
+
+.bgimgstep34 {
+  background-image: url("../img/gmailsignin_2.png");
+  width:618px;
+  height:501px;
+  position: relative;
+}
+
+.imgstep34 {
+  position: absolute;
+  left: 27px;
+  top: 254px;
+  width: 549px;
+  height: 85px;
+}
+
+.bgimgstep35 {
+  background-image: url("../img/install.png");
+  width:735px;
+  height:552px;
+  position: relative;
+}
+
+.imgstep35 {
+  position: absolute;
+  left: 488px;
+  top: 509px;
+  width: 110px;
+  height: 32px;
+}
+
+/* Style for auto-type password */
+
+.bgimgstep36 {
+  background-image: url("../img/editpassword.png");
+  width:735px;
+  height:505px;
+  position: relative;
+}
+
+.imgstep36 {
+  position: absolute;
+  left: 412px;
+  top: 409px;
+  width: 302px;
+  height: 27px;
+}
+
+.bgimgstep37 {
+  background-image: url("../img/editpassword2.png");
+  width:807px;
+  height:999px;
+  position: relative;
+}
+
+.imgstep37 {
+  position: absolute;
+  left: 312px;
+  top: 359px;
+  width: 88px;
+  height: 24px;
+}
+
+.imgstep38 {
+  position: absolute;
+  left: 100px;
+  top: 482px;
+  width: 232px;
+  height: 28px;
+}
+
+.imgstep39 {
+  position: absolute;
+  left: 136px;
+  top: 517px;
+  width: 420px;
+  height: 26px;
+}
+
+.imgstep40 {
+  position: absolute;
+  left: 547px;
+  top: 951px;
+  width: 118px;
+  height: 36px;
+}
+
+.bgimgstep41 {
+  background-image: url("../img/autotypenew.png");
+  width:674px;
+  height:598px;
+  position: relative;
+}
+
+.imgstep41 {
+  position: absolute;
+  left: 276px;
+  top: 308px;
+  width: 400px;
+  height: 27px;
+}
